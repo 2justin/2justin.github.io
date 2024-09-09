@@ -16,7 +16,7 @@ url                      : https://2justin.github.io # the base hostname & proto
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "2justin/2justin.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
+# Site Author - The following control what appear as part of the author content on the sidebar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # hittlejustin
+  twitter          : "hittlejustin"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
