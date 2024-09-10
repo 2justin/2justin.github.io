@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "justin! WORK IN PROGRESS"
+title: "Justin! WORK IN PROGRESS"
 author_profile: true
 redirect_from: 
   - /about/
