@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Justin's Site         "
+title                    : "Justin's Site / Title"
 title_separator          : "-"
 name                     : &name "Justin"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "2justin/2justin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.PNG"
+  avatar           : "profile.png"
   name             : "Justin Hittle"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
